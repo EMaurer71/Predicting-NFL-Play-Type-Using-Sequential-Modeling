@@ -1,4 +1,4 @@
-<img width="1784" height="583" alt="eda_class_balance" src="https://github.com/user-attachments/assets/97c88c5c-4daf-43c6-b92e-9b87b78a74ac" />
+
 NFL Play Type Prediction Using LSTM & Pre‑Snap Box Count Dynamics
 IBM Machine Learning Professional Certificate — Deep Learning Final Project
 Author: Eric Maurer
