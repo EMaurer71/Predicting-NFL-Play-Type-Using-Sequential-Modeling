@@ -250,3 +250,5 @@ Add offensive line splits and receiver splits
 Try Transformer‑based sequence models
 
 Explore team‑specific tendencies
+
+Due to archived data restrictions, the data is on the kaggle site... https://www.kaggle.com/code/ericmau/nfl-play-type-prediction-lstm
