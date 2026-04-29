@@ -1,3 +1,4 @@
+<img width="1784" height="583" alt="eda_class_balance" src="https://github.com/user-attachments/assets/97c88c5c-4daf-43c6-b92e-9b87b78a74ac" />
 NFL Play Type Prediction Using LSTM & Pre‑Snap Box Count Dynamics
 IBM Machine Learning Professional Certificate — Deep Learning Final Project
 Author: Eric Maurer
@@ -106,6 +107,9 @@ Runs: 60.4%
 
 Passes: 39.6%
 
+<img width="1784" height="583" alt="image" src="https://github.com/user-attachments/assets/d71a6410-f470-4801-b6c0-53001e565088" />
+
+
 Pass Rate by Down
 1st: 49.7%
 
@@ -129,6 +133,11 @@ Late defensive loading (+2 or more defenders) → higher pass rate
 
 Offenses tend to audible away from runs when the box fills late
 
+
+<img width="2385" height="1217" alt="image" src="https://github.com/user-attachments/assets/1b77c922-6491-43dc-94d9-99d8069c6b91" />
+
+<img width="1934" height="733" alt="image" src="https://github.com/user-attachments/assets/71ce2232-e91c-4fd4-a642-fb8bcd18141e" />
+
 🧩 Sequence Construction
 Each game = one sequence
 
@@ -144,12 +153,16 @@ Test: Weeks 8–9
 
 Sequence lengths average 118 plays per game.
 
+<img width="1483" height="581" alt="image" src="https://github.com/user-attachments/assets/89945875-4660-4c39-8127-3865cb1736c1" />
+
 🏋️ Model Training & Learning Curves
 Model 1 shows stable training and validation curves
 
 Model 2 overfits
 
 Model 3 underfits due to low learning rate
+
+<img width="2084" height="763" alt="image" src="https://github.com/user-attachments/assets/5b30c145-e8e1-435b-9058-03ec8d375173" />
 
 🧪 Results
 Accuracy (Test Set)
@@ -165,6 +178,7 @@ Model 1	0.41	0.78	0.59
 Model 2	0.24	0.75	0.50
 Model 3	0.03	0.75	0.39
 
+<img width="1634" height="731" alt="image" src="https://github.com/user-attachments/assets/c9ad08e0-ea9d-401b-8b91-937c13f045c8" />
 
 Model 1 is the clear winner.
 
@@ -183,6 +197,9 @@ Model 3 — Collapses on Run
 Run detection: 1.6%
 
 Predicts “pass” almost always
+
+<img width="2234" height="618" alt="image" src="https://github.com/user-attachments/assets/55cb0c3d-1cee-4bff-9416-31770ba88c5a" />
+
 
 🧠 Discussion
 What Worked
